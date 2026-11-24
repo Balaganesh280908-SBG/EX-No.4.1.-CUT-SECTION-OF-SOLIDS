@@ -17,11 +17,12 @@ Create a circle of 50 mm diameter at the origin. On the left side, draw two addi
 
 <img width="281" height="448" alt="image" src="https://github.com/user-attachments/assets/205944d7-9d5e-424a-9d59-82854e2231dd" />
 
-
 ## Step 2
-Draw a tangent line connecting the two circles. Set the distance between the circles to 35 mm. Choose the required sketch elements and use the Mirror command to create the matching geometry. Remove the unwanted portions using the Trim tool. Extrude the completed profile by 10 mm.
+Draw a tangent line connecting the two circles. Set the distance between the circles to 35 mm. Choose the required sketch elements and use the Mirror command to create the matching geometry.
+Remove the unwanted portions using the Trim tool. Extrude the completed profile by 10 mm.
 
 <img width="236" height="432" alt="image" src="https://github.com/user-attachments/assets/9badb749-4fd8-4dd1-a2fb-29938c13c0b2" />
+
 <img width="166" height="260" alt="image" src="https://github.com/user-attachments/assets/b58562e4-8586-4e30-8ee6-a213f822e1b0" />
 
 
