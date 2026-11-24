@@ -20,9 +20,9 @@ Create a circle of 50 mm diameter at the origin. On the left side, draw two addi
 Draw a tangent line connecting the two circles. Set the distance between the circles to 35 mm. Choose the required sketch elements and use the Mirror command to create the matching geometry.
 Remove the unwanted portions using the Trim tool. Extrude the completed profile by 10 mm.
 
-<img width="236" height="432" alt="image" src="https://github.com/user-attachments/assets/9badb749-4fd8-4dd1-a2fb-29938c13c0b2" />
+# <img width="236" height="432" alt="image" src="https://github.com/user-attachments/assets/9badb749-4fd8-4dd1-a2fb-29938c13c0b2" />
 
-<img width="166" height="260" alt="image" src="https://github.com/user-attachments/assets/b58562e4-8586-4e30-8ee6-a213f822e1b0" />
+# <img width="166" height="260" alt="image" src="https://github.com/user-attachments/assets/b58562e4-8586-4e30-8ee6-a213f822e1b0" />
 
 
 ## Step 3
@@ -33,9 +33,9 @@ In the top view, sketch a circle with a diameter of 30 mm. Select the YZ plane, 
 ## Step 5 
 After completing the model, choose Drawing > From Design. Insert the front, top, and side views into the drawing sheet.
 
-<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/1bdaa0d7-242d-4a84-8056-c6fb84084504" />
-<img width="273" height="343" alt="image" src="https://github.com/user-attachments/assets/d3f1c2ab-57ab-4f6d-9eb3-21a6ec6ca47f" />
-<img width="397" height="430" alt="image" src="https://github.com/user-attachments/assets/8759f39f-81b4-4ba8-9db0-36a3127fc66d" />
+# <img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/1bdaa0d7-242d-4a84-8056-c6fb84084504" />
+# <img width="273" height="343" alt="image" src="https://github.com/user-attachments/assets/d3f1c2ab-57ab-4f6d-9eb3-21a6ec6ca47f" />
+# <img width="397" height="430" alt="image" src="https://github.com/user-attachments/assets/8759f39f-81b4-4ba8-9db0-36a3127fc66d" />
 
 
 ## INPUT:
