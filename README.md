@@ -11,40 +11,44 @@ To create the solid model from given drawing and section the solid model
 4. 2.5 Mbps or faster download; 500 Kbps or faster upload 
 
 ## PROCEDURE:
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
 
-![image](https://user-images.githubusercontent.com/113594316/198825274-c6a8d3ee-fb19-4641-b915-8d2e000c40a8.png)
+## Step 1 
+Create a circle of 50 mm diameter at the origin. On the left side, draw two additional circles with diameters of 30 mm and 12 mm.
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
+<img width="281" height="448" alt="image" src="https://github.com/user-attachments/assets/205944d7-9d5e-424a-9d59-82854e2231dd" />
 
-![image](https://user-images.githubusercontent.com/113594316/198825282-0d3de4b8-b6d9-446a-ae2a-461955057399.png)
 
-5.	Use inspect feature to measure the dimensions of sketch.
+## Step 2
+Draw a tangent line connecting the two circles. Set the distance between the circles to 35 mm. Choose the required sketch elements and use the Mirror command to create the matching geometry. Remove the unwanted portions using the Trim tool. Extrude the completed profile by 10 mm.
 
-![image](https://user-images.githubusercontent.com/113594316/198825301-194365b4-69d2-42ad-8545-a68d3ca1f442.png)
+<img width="236" height="432" alt="image" src="https://github.com/user-attachments/assets/9badb749-4fd8-4dd1-a2fb-29938c13c0b2" />
+<img width="166" height="260" alt="image" src="https://github.com/user-attachments/assets/b58562e4-8586-4e30-8ee6-a213f822e1b0" />
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198825314-b90f6aba-da26-4f0d-8d61-a03e8ad0d765.png)
+## Step 3
+From the top view, sketch a circle with a diameter of 50 mm and extrude it by 28 mm. Create another circle with a diameter of 20 mm and extrude it in the negative direction by 50 mm. 
+## Step 4 
+In the top view, sketch a circle with a diameter of 30 mm. Select the YZ plane, draw a circle of 6 mm diameter, and extrude it in the negative direction by 50 mm.
 
-7.Use extrude option to convert 3D model from sketch
+## Step 5 
+After completing the model, choose Drawing > From Design. Insert the front, top, and side views into the drawing sheet.
 
-![image](https://user-images.githubusercontent.com/113594316/198825328-205fac21-1322-4d67-894b-6fd92e454e26.png)
+<img width="200" height="100" alt="image" src="https://github.com/user-attachments/assets/1bdaa0d7-242d-4a84-8056-c6fb84084504" />
+<img width="273" height="343" alt="image" src="https://github.com/user-attachments/assets/d3f1c2ab-57ab-4f6d-9eb3-21a6ec6ca47f" />
+<img width="397" height="430" alt="image" src="https://github.com/user-attachments/assets/8759f39f-81b4-4ba8-9db0-36a3127fc66d" />
 
-8.Use revolve option to convert 2D to 3D.
-
-![image](https://user-images.githubusercontent.com/113594316/198825337-455049de-f053-48b8-9dd0-ebeb189c0dde.png)
 
 ## INPUT:
+
 ![image](https://user-images.githubusercontent.com/113594316/198825351-b514a4e7-06af-4ee0-8197-e8267749f8a8.png)
 
-## OUTPUT:
-
+## OUTPUT DRAWING:
 
 <img width="807" height="560" alt="image" src="https://github.com/user-attachments/assets/d237dc3a-1b28-48ba-bb64-70bcc35d4e8e" />
 
+## OUTPUT:
+
+<img width="553" height="433" alt="image" src="https://github.com/user-attachments/assets/74a09805-3519-425a-88c6-25a12305856a" />
 
 ## RESULT:
 
