@@ -12,7 +12,7 @@ To create the solid model from given drawing and section the solid model
 ## PROCEDURE:
 
 ## Step 1 
-Create a circle of 50 mm diameter at the origin. On the left side, draw two additional circles with diameters of 30 mm and 12 mm.
+Create a circle of 50 mm diameter at the origin. On the left side, draw two additional circles with diameters of 30 mm and 12 mm.Select the XY plane and use the Circle tool to draw the required profiles.
 
 <img width="281" height="448" alt="image" src="https://github.com/user-attachments/assets/205944d7-9d5e-424a-9d59-82854e2231dd" />
 
@@ -26,9 +26,9 @@ Remove the unwanted portions using the Trim tool. Extrude the completed profile 
 
 
 ## Step 3
-From the top view, sketch a circle with a diameter of 50 mm and extrude it by 28 mm. Create another circle with a diameter of 20 mm and extrude it in the negative direction by 50 mm. 
+From the top view, sketch a circle with a diameter of 50 mm and extrude it by 28 mm. Create another circle with a diameter of 20 mm and extrude it in the negative direction by 50 mm. Make sure the central opening is properly formed. Check the cylindrical body's position and height according to the given dimensions.
 ## Step 4 
-In the top view, sketch a circle with a diameter of 30 mm. Select the YZ plane, draw a circle of 6 mm diameter, and extrude it in the negative direction by 50 mm.
+In the top view, sketch a circle with a diameter of 30 mm. Select the YZ plane and draw a circle of 6 mm diameter. Extrude it in the negative direction by 50 mm to create the side hole. Verify the position of the hole and ensure that it is properly aligned with the main cylindrical body.
 
 ## Step 5 
 After completing the model, choose Drawing > From Design. Insert the front, top, and side views into the drawing sheet.
